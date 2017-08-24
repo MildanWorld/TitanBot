@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TitanBot", "TitanBot\TitanBot.csproj", "{D5978556-B58B-4C0C-B25A-41A326A396FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveBaseTest", "LiveBaseTest\LiveBaseTest.csproj", "{8022E9EA-53EE-497C-9E02-4994C17F4BEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5978556-B58B-4C0C-B25A-41A326A396FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5978556-B58B-4C0C-B25A-41A326A396FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5978556-B58B-4C0C-B25A-41A326A396FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5978556-B58B-4C0C-B25A-41A326A396FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8022E9EA-53EE-497C-9E02-4994C17F4BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8022E9EA-53EE-497C-9E02-4994C17F4BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8022E9EA-53EE-497C-9E02-4994C17F4BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8022E9EA-53EE-497C-9E02-4994C17F4BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC5E511B-FDD7-489E-B00E-E2407F925727}
+	EndGlobalSection
+EndGlobal
